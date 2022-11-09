@@ -11,3 +11,5 @@ Ipython中支持多个魔法指令，这些魔法指令快捷、方便、小巧�
 2. 日后有相关编程需求的时候，回到本翻译或者官方文档查看用法以及相关示例。
 
 [Jupyter官方文档链接](https://ipython.readthedocs.io/en/stable/interactive/magics.html#built-in-magic-commands)
+
+[Colab链接](https://colab.research.google.com/github/crcleavity/Jupyter-Magic-Commands-CN-Translation/blob/main/magic_line.ipynb)
